@@ -2,7 +2,9 @@ Daily AI News Automation 🤖
 
 An AI-powered daily news automation workflow built using n8n, Google Gemini, RSS feeds, and Gmail.
 
-📸WorkFlow 
+## 📸 Workflow Preview
+
+![Daily AI News Automation Workflow](Screenshot%202026-10-11%20134342.png)
 
 🚀 Features
 
